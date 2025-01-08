@@ -9,7 +9,7 @@ Model Building:
 -Added Convolutional, MaxPooling, Flatten, Dropout, and Dense layers to extract features and classify images.
 
 Model Compilation:
--Used the Adam optimizer for efficient gradient descent.
+-Adam optimizer was used for efficient gradient descent.
 -Chose SparseCategoricalCrossentropy as the loss function for multi-class classification.
 -Tracked accuracy as the performance metric.
 
